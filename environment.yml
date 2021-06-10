@@ -1,27 +1,13 @@
 name: case_study
 channels:
-  - plotly
-  - theochem
   - anaconda
   - conda-forge
   - defaults
 dependencies:
-  - ipykernel
-  - ipython
-  - nb_conda
-  - nb_conda_kernels
-  - nbconvert
-  - nbformat
-  - notebook
   - pandas
-  - python
-  - python-dateutil
-  - python_abi
   - scipy
   - yaml
   - wget
-  - pip
-  - numpy
   - pip:
     - numpy==1.18.5
     - matplotlib
