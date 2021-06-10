@@ -5,6 +5,6 @@ The repository is still under construction.
 No Python environment on your computer? No problem! You can directly run the tutorial in your browser without installing anything.
 Please directly click this icon:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Liu-group/MLbook/HEAD?filepath=JupyterNotebook%2Fcase_study.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/euhruska/MLbook/HEAD?filepath=JupyterNotebook%2Fcase_study.ipynb)
 
 A Jupyter notebook will automatically launch in your browser.
