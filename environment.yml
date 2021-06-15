@@ -6,10 +6,9 @@ channels:
 dependencies:
   - pandas
   - scipy
-  - yaml
   - wget
+  - pip
   - pip:
     - numpy==1.18.5
     - matplotlib
     - scikit-learn==0.20.3
-    - tensorflow
